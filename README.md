@@ -4,6 +4,7 @@ I'm currently working on:
 
 - 🐍 [python/cpython](https://github.com/python/cpython/) Fixing bugs, triaging issues, contributing minor features and small performance improvements to the Python language. 
 - 💰 [thriftpy/thriftpy2](https://github.com/thriftpy/thriftpy2/) Maintaining a pure Python Thrift implementation.
+- 🎛️ [aisk/vox](https://github.com/aisk/vox) Building my middleware based Go Web frame work.
 - 🐷 [aisk/ggbond](https://github.com/aisk/ggbond) Building my Python bindings for [GGML](https://github.com/ggml-org/ggml) with higher-level abstractions.
 - 🤖 [aisk/hasuke](https://github.com/aisk/hasuke) Building my minimal code agent and claw in Haskell.
 - ⛏️ [aisk/pick](https://github.com/aisk/pick) Maintaining a very handy library for interactive option selection in the terminal.
