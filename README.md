@@ -7,7 +7,7 @@ I'm currently working on:
 - 🧌 [aisk/goblin](https://github.com/aisk/goblin) Created my own toy dynamic programming language where every object is an interface and compiles to Go.
 - 🎛️ [aisk/vox](https://github.com/aisk/vox) Building my middleware based Go Web frame work.
 - 🐷 [aisk/ggbond](https://github.com/aisk/ggbond) Building my Python bindings for [GGML](https://github.com/ggml-org/ggml) with higher-level abstractions.
-- 🤖 [aisk/hasuke](https://github.com/aisk/hasuke) Building my minimal code agent and claw in Haskell.
+- 🤖 [aisk/paimon](https://github.com/aisk/paimon) Building my minimal code agent.
 - ⛏️ [aisk/pick](https://github.com/aisk/pick) Maintaining a very handy library for interactive option selection in the terminal.
 - 🐹 [aisk/mygo](https://github.com/aisk/mygo) Created a Go pre-processor that accepts the `?` operator (as mentioned in [Ian's proposoal](https://github.com/golang/go/issues/71203)) and generates vanilla Go code.
 - ⏳ [aisk/timeout](https://github.com/aisk/timeout) Created a GNU coreutil compatible `timeout` command in Haskell, mainly for macOS.
